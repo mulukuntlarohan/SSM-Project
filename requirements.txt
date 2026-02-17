@@ -1,0 +1,7 @@
+langgraph
+litellm
+pydantic
+streamlit
+chromadb
+python-dotenv
+openai
