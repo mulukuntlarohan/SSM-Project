@@ -5,3 +5,12 @@ streamlit
 chromadb
 python-dotenv
 openai
+
+# Update the core tools first
+python -m pip install --upgrade pip setuptools
+
+# Install the smaller ones first
+pip install pydantic litellm python-dotenv langgraph
+
+# Install the big one last (it might take 2 minutes, let it finish)
+pip install chromadb
