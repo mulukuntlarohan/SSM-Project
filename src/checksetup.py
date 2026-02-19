@@ -16,9 +16,9 @@ def verify():
     # Check for API Key
     key = os.getenv("OPENAI_API_KEY")
     if key:
-        print("✅ API Key found in .env")
+        print("API Key found in .env")
     else:
-        print("⚠️ Warning: No OPENAI_API_KEY found in .env file.")
+        print("Warning: No OPENAI_API_KEY found in .env file.")
     
     print("\nEnvironment is 100% Ready!")
 
