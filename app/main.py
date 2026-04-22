@@ -2,7 +2,7 @@
 SSM Framework - Streamlit Chat Interface
 =========================================
 
-Minimal, clean chat interface with drift detection.
+chat interface with drift detection.
 - Simple chat interface
 - Automatic drift detection with pop-up alerts
 - State extraction visualization on drift
