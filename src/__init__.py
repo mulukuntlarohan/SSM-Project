@@ -1,5 +1,5 @@
 """
-SSM Framework - Source Package
+SSM Framework - main Source Package
 """
 
 from .schema import (

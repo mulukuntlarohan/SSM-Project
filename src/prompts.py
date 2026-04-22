@@ -12,7 +12,7 @@ prompt construction utilities for the SSM framework. It handles most of the prom
 
 The prompt engineering follows a consistent pattern:
 - Clear role definition for the LLM
-- Structured output requirements (JSON schemas)
+- Structured output requirements (JSON schema)
 - Few-shot examples where beneficial
 - Explicit constraint enforcement instructions
 """

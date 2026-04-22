@@ -156,7 +156,7 @@ LangSmithConfig = langsmithConfig
 
 
 # =============================================================================
-# LLM CONFIGURATION - GEMINI 2.5 FLASH
+# LLM CONFIGURATION - GEMINI 2.5 FLASH depends on env 
 # =============================================================================
 
 class LLMConfig:
