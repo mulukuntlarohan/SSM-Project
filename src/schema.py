@@ -7,7 +7,7 @@ of the Sequential-State Management framework. These schemas ensure that all
 LLM outputs conform to a strict JSON structure, enabling deterministic state
 management and conflict detection.
 
-The GlobalStateMap serves as the "Source of Truth" for the entire system,
+The GlobalStateMap serves as our  "Source of Truth" for the entire system,
 capturing technical constraints, stylistic preferences, and project metadata
 that must be preserved across conversation turns.
 """

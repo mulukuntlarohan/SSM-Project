@@ -3,7 +3,7 @@ SSM Framework - Prompt Templates Module
 =======================================
 
 This module contains all system instructions, prompt templates, and
-prompt construction utilities for the SSM framework. It handles:
+prompt construction utilities for the SSM framework. It handles most of the promts:
 
 1. Extraction prompts for parsing user intent into structured state
 2. Conflict detection prompts for identifying contradictions

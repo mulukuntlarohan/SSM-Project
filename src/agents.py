@@ -151,8 +151,6 @@ class langsmithConfig:
         return f"https://smith.langchain.com/o/default/projects/p/{cls.PROJECT}/runs/{run_id}"
 
 
-# Provide backward-compatible aliases so existing code can use `langsmith.*`
-# while still using our local wrapper class.
 langsmith = langsmithConfig
 LangSmithConfig = langsmithConfig
 

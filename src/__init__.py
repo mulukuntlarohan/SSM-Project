@@ -25,8 +25,6 @@ from .agents import (
     create_agent,
 )
 
-# Provide a more conventional export name for external consumers
-# while preserving the internal lowercase class name.
 LangSmithConfig = langsmithConfig
 
 from .memory import (

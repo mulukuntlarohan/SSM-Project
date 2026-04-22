@@ -378,7 +378,7 @@ class EpisodicMemoryStore:
         )
     
     def clear(self) -> None:
-        """Clear all stored conversation history."""
+        """Clear all stored conversation history in gobal state map."""
         # Get all IDs and delete them
         all_items = self.collection.get()
         if all_items["ids"]:
