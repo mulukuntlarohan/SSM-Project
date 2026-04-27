@@ -27,7 +27,7 @@ The **SSM Framework** is an Agentic AI architecture designed to solve this probl
 ### 1. Installation
 First, clone the repository and install all required dependencies using the `requirements.txt` file:
 ```bash
-git clone https://github.com/your-username/SSM-Project.git
+git clone https://github.com/mulukuntlarohan/SSM-Project.git
 cd SSM-Project
 pip install -r requirements.txt
 ```
